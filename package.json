@@ -17,6 +17,6 @@
     "@babel/register": "^7.5.5",
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
-    "lodash": "4.17.20"
+    "bootstrap": "4.5.3"
   }
 }
